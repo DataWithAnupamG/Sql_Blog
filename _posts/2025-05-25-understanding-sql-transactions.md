@@ -23,4 +23,3 @@ SET Balance = Balance + 500
 WHERE AccountID = 202;
 
 COMMIT;
-```
